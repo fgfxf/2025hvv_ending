@@ -114,7 +114,7 @@ function() {
             value: !0
         })
     },
-    i.p = "2025hvv_ending/ending/",
+    i.p = "./ending/",
     function() {
         i.b = document.baseURI || self.location.href;
         var e = {
